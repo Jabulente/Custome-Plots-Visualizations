@@ -29,12 +29,19 @@ pip install matplotlib numpy
 ```
 
 ## Project Structure
+
 ```
-tanzania-flag/
-├── generate_flag.py    # Main flag generation script
-├── tanzania_flag.png   # Example output image
-├── README.md           # This documentation
-└── requirements.txt    # Dependency list
+Tanzania-National-Flag-Visualisations-Using-Matplotlib/
+├── Documents/
+├── Notebooks/
+├── Outputs/
+├── Resources/
+├── scr/
+    ├── generate_flag.py      # Main flag generation script
+    ├── tanzania_flag.png     # Example output image
+├── LICENSE
+├── README.md
+├── requirements.txt
 ```
 
 ## Usage
