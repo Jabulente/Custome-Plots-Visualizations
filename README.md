@@ -15,7 +15,8 @@ This Python project generates the national flag of Tanzania using the Matplotlib
 ## Flag Specifications
 | Aspect Ratio | Diagonal Band Width | Color Specifications |
 |-------------|---------------------|----------------------|
-| 2:3 | Black band = 1/6 of diagonal length<br>Yellow borders = 1/12 of diagonal length | ![#1EB53A](https://via.placeholder.com/15/1EB53A/000000?text=+) `#1EB53A` Green<br>![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000` Black<br>![#FCD116](https://via.placeholder.com/15/FCD116/000000?text=+) `#FCD116` Yellow<br>![#00A3DD](https://via.placeholder.com/15/00A3DD/000000?text=+) `#00A3DD` Blue |
+| 2:3 | Black band = 1/6 of diagonal length<br>Yellow borders = 1/12 of diagonal length | **Green**: [`#1EB53A`](https://www.schemecolor.com/tanzania-flag-colors.php) <br> [![#1EB53A](https://img.shields.io/badge/Green-%231EB53A?style=for-the-badge&link=https://www.schemecolor.com/tanzania-flag-colors.php)](https://www.schemecolor.com/tanzania-flag-colors.php) <br><br> **Black**: [`#000000`](https://www.schemecolor.com/tanzania-flag-colors.php) <br> [![Black](https://img.shields.io/badge/Black-%23000000?style=for-the-badge&link=https://www.schemecolor.com/tanzania-flag-colors.php)](https://www.schemecolor.com/tanzania-flag-colors.php) <br><br> **Yellow**: [`#FCD116`](https://www.schemecolor.com/tanzania-flag-colors.php) <br> [![Yellow](https://img.shields.io/badge/Yellow-%23FCD116?style=for-the-badge&link=https://www.schemecolor.com/tanzania-flag-colors.php)](https://www.schemecolor.com/tanzania-flag-colors.php) <br><br> **Blue**: [`#00A3DD`](https://www.schemecolor.com/tanzania-flag-colors.php) <br> [![Blue](https://img.shields.io/badge/Blue-%2300A3DD?style=for-the-badge&link=https://www.schemecolor.com/tanzania-flag-colors.php)](https://www.schemecolor.com/tanzania-flag-colors.php) |
+
 
 ## Requirements
 - Python 3.6+
